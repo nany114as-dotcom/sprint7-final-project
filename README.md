@@ -1,6 +1,6 @@
 # sprint7-final-project
 
-#Análisis de Consumo ConnectaTel#
+## Análisis de Consumo ConnectaTel
 
 Este repositorio contiene el análisis estadístico y la segmentación de clientes realizados para la empresa de telecomunicaciones ConnectaTel. 
 
