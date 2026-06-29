@@ -4,8 +4,7 @@
 
 Este repositorio contiene el análisis estadístico y la segmentación de clientes realizados para la empresa de telecomunicaciones ConnectaTel. 
 
-El dataset analizado  `S7_Version_Estudiante_Project_ConnectaTel` incluye los registros de 4,000 usuarios con valores faltantes, valores atípicos (outliers) y problemas de calidad diseñados para simular un entorno real de análisis de datos.
-
+El proyecto integró tres datasets distintos: `plans.csv` (2 planes), `users_latam.csv` (4,000 usuarios) y `usage.csv` (40,000 registros de consumo), estos últimos dos con valores faltantes, valores atípicos (outliers) y problemas de calidad diseñados para simular un entorno real de análisis de datos."
 ## 📂 Contenido del repositorio
 
 `S7_Version_Estudiante_Project_ConnectaTel.ipynb` → Notebook principal con la limpieza de datos, análisis exploratorio (EDA), distribuciones, visualizaciones gráficas segmentación por grupos de uso y conclusiones estratégicas.
